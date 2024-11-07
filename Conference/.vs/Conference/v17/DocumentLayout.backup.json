@@ -1,0 +1,181 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Conference\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C848A35-B815-4A8E-B15E-DC10F39E1847}|Conference.csproj|C:\\Users\\user\\Desktop\\Conference\\pages\\listviewpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C848A35-B815-4A8E-B15E-DC10F39E1847}|Conference.csproj|solutionrelative:pages\\listviewpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C848A35-B815-4A8E-B15E-DC10F39E1847}|Conference.csproj|c:\\users\\user\\desktop\\conference\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C848A35-B815-4A8E-B15E-DC10F39E1847}|Conference.csproj|solutionrelative:classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C848A35-B815-4A8E-B15E-DC10F39E1847}|Conference.csproj|C:\\Users\\user\\Desktop\\Conference\\pages\\organizatorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2C848A35-B815-4A8E-B15E-DC10F39E1847}|Conference.csproj|solutionrelative:pages\\organizatorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C848A35-B815-4A8E-B15E-DC10F39E1847}|Conference.csproj|C:\\Users\\user\\Desktop\\Conference\\pages\\listviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2C848A35-B815-4A8E-B15E-DC10F39E1847}|Conference.csproj|solutionrelative:pages\\listviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C848A35-B815-4A8E-B15E-DC10F39E1847}|Conference.csproj|C:\\Users\\user\\Desktop\\Conference\\data\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
+      "RelativeMoniker": "D:0:0:{2C848A35-B815-4A8E-B15E-DC10F39E1847}|Conference.csproj|solutionrelative:data\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C848A35-B815-4A8E-B15E-DC10F39E1847}|Conference.csproj|C:\\Users\\user\\Desktop\\Conference\\data\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C848A35-B815-4A8E-B15E-DC10F39E1847}|Conference.csproj|solutionrelative:data\\model1.context.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C848A35-B815-4A8E-B15E-DC10F39E1847}|Conference.csproj|C:\\Users\\user\\Desktop\\Conference\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{2C848A35-B815-4A8E-B15E-DC10F39E1847}|Conference.csproj|solutionrelative:app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C848A35-B815-4A8E-B15E-DC10F39E1847}|Conference.csproj|C:\\Users\\user\\Desktop\\Conference\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C848A35-B815-4A8E-B15E-DC10F39E1847}|Conference.csproj|solutionrelative:pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C848A35-B815-4A8E-B15E-DC10F39E1847}|Conference.csproj|C:\\Users\\user\\Desktop\\Conference\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{2C848A35-B815-4A8E-B15E-DC10F39E1847}|Conference.csproj|solutionrelative:pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2C848A35-B815-4A8E-B15E-DC10F39E1847}|Conference.csproj|C:\\Users\\user\\Desktop\\Conference\\pages\\organizatorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2C848A35-B815-4A8E-B15E-DC10F39E1847}|Conference.csproj|solutionrelative:pages\\organizatorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ListViewPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Pages\\ListViewPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\ListViewPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\Pages\\ListViewPage.xaml",
+              "RelativeToolTip": "Pages\\ListViewPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-07T12:48:53.137Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ListViewPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Pages\\ListViewPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\ListViewPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\Pages\\ListViewPage.xaml.cs",
+              "RelativeToolTip": "Pages\\ListViewPage.xaml.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAAAB0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:56:23.076Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\App.config",
+              "RelativeDocumentMoniker": "App.config",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\App.config",
+              "RelativeToolTip": "App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-11-07T12:52:50.115Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Classes\\Manager.cs",
+              "RelativeDocumentMoniker": "Classes\\Manager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\Classes\\Manager.cs",
+              "RelativeToolTip": "Classes\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T13:01:50.318Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Data\\Model1.edmx",
+              "RelativeDocumentMoniker": "Data\\Model1.edmx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\Data\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Data\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-07T14:32:06.944Z",
+              "EditorCaption": " [Diagram1]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "OrganizatorPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Pages\\OrganizatorPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\OrganizatorPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\Pages\\OrganizatorPage.xaml",
+              "RelativeToolTip": "Pages\\OrganizatorPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-07T12:57:16.794Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "Pages\\LoginPage.xaml.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAowEUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:56:39.393Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Model1.Context.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Data\\Model1.Context.cs",
+              "RelativeDocumentMoniker": "Data\\Model1.Context.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\Data\\Model1.Context.cs",
+              "RelativeToolTip": "Data\\Model1.Context.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBcAAAA5AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T14:32:37.842Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "LoginPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Pages\\LoginPage.xaml",
+              "RelativeDocumentMoniker": "Pages\\LoginPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\Pages\\LoginPage.xaml",
+              "RelativeToolTip": "Pages\\LoginPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-07T12:59:24.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "OrganizatorPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Pages\\OrganizatorPage.xaml.cs",
+              "RelativeDocumentMoniker": "Pages\\OrganizatorPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\Pages\\OrganizatorPage.xaml.cs",
+              "RelativeToolTip": "Pages\\OrganizatorPage.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T12:57:12.973Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

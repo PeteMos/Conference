@@ -1,0 +1,114 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="Хранилище ConferenceDataModelContainer" CdmEntityContainer="ConferenceDataEntities">
+    <EntitySetMapping Name="Activity">
+      <EntityTypeMapping TypeName="ConferenceDataModel.Activity">
+        <MappingFragment StoreEntitySet="Activity">
+          <ScalarProperty Name="Id_act" ColumnName="Id_act" />
+          <ScalarProperty Name="IdEvent_act" ColumnName="IdEvent_act" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Days" ColumnName="Days" />
+          <ScalarProperty Name="ActivName" ColumnName="ActivName" />
+          <ScalarProperty Name="Day" ColumnName="Day" />
+          <ScalarProperty Name="Time" ColumnName="Time" />
+          <ScalarProperty Name="IdModer" ColumnName="IdModer" />
+          <ScalarProperty Name="Jury_1" ColumnName="Jury_1" />
+          <ScalarProperty Name="Jury_2" ColumnName="Jury_2" />
+          <ScalarProperty Name="Jury_3" ColumnName="Jury_3" />
+          <ScalarProperty Name="Jury_4" ColumnName="Jury_4" />
+          <ScalarProperty Name="Jury_5" ColumnName="Jury_5" />
+          <ScalarProperty Name="Winner" ColumnName="Winner" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="City">
+      <EntityTypeMapping TypeName="ConferenceDataModel.City">
+        <MappingFragment StoreEntitySet="City">
+          <ScalarProperty Name="Id_city" ColumnName="Id_city" />
+          <ScalarProperty Name="Name_city" ColumnName="Name_city" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Country">
+      <EntityTypeMapping TypeName="ConferenceDataModel.Country">
+        <MappingFragment StoreEntitySet="Country">
+          <ScalarProperty Name="Id_c" ColumnName="Id_c" />
+          <ScalarProperty Name="Name_country" ColumnName="Name_country" />
+          <ScalarProperty Name="Eng_name" ColumnName="Eng_name" />
+          <ScalarProperty Name="Code_1" ColumnName="Code_1" />
+          <ScalarProperty Name="Code_2" ColumnName="Code_2" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Direction">
+      <EntityTypeMapping TypeName="ConferenceDataModel.Direction">
+        <MappingFragment StoreEntitySet="Direction">
+          <ScalarProperty Name="Id_dir" ColumnName="Id_dir" />
+          <ScalarProperty Name="Direction1" ColumnName="Direction" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Event">
+      <EntityTypeMapping TypeName="ConferenceDataModel.Event">
+        <MappingFragment StoreEntitySet="Event">
+          <ScalarProperty Name="Id_e" ColumnName="Id_e" />
+          <ScalarProperty Name="Event1" ColumnName="Event" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Event_act">
+      <EntityTypeMapping TypeName="ConferenceDataModel.Event_act">
+        <MappingFragment StoreEntitySet="Event_act">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="EventName" ColumnName="EventName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Events">
+      <EntityTypeMapping TypeName="ConferenceDataModel.Events">
+        <MappingFragment StoreEntitySet="Events">
+          <ScalarProperty Name="Id_ev" ColumnName="Id_ev" />
+          <ScalarProperty Name="Name_events" ColumnName="Name_events" />
+          <ScalarProperty Name="Date" ColumnName="Date" />
+          <ScalarProperty Name="Days" ColumnName="Days" />
+          <ScalarProperty Name="ImageName" ColumnName="ImageName" />
+          <ScalarProperty Name="Image" ColumnName="Image" />
+          <ScalarProperty Name="IdCity" ColumnName="IdCity" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Gender">
+      <EntityTypeMapping TypeName="ConferenceDataModel.Gender">
+        <MappingFragment StoreEntitySet="Gender">
+          <ScalarProperty Name="Id_gen" ColumnName="Id_gen" />
+          <ScalarProperty Name="Gender1" ColumnName="Gender" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="General">
+      <EntityTypeMapping TypeName="ConferenceDataModel.General">
+        <MappingFragment StoreEntitySet="General">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="FIO" ColumnName="FIO" />
+          <ScalarProperty Name="Email" ColumnName="Email" />
+          <ScalarProperty Name="DateOfBirth" ColumnName="DateOfBirth" />
+          <ScalarProperty Name="CountryId" ColumnName="CountryId" />
+          <ScalarProperty Name="IdDirection" ColumnName="IdDirection" />
+          <ScalarProperty Name="IdEvent" ColumnName="IdEvent" />
+          <ScalarProperty Name="Phone" ColumnName="Phone" />
+          <ScalarProperty Name="Password" ColumnName="Password" />
+          <ScalarProperty Name="GenderId" ColumnName="GenderId" />
+          <ScalarProperty Name="RoleId" ColumnName="RoleId" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+    <EntitySetMapping Name="Roles">
+      <EntityTypeMapping TypeName="ConferenceDataModel.Roles">
+        <MappingFragment StoreEntitySet="Roles">
+          <ScalarProperty Name="Id" ColumnName="Id" />
+          <ScalarProperty Name="RoleName" ColumnName="RoleName" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>
