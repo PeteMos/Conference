@@ -55,3 +55,5 @@ C:\Users\user\Desktop\Conference\Conference\Conference\obj\Debug\Conference.cspr
 C:\Users\user\Desktop\Conference\Conference\Conference\obj\Debug\Conference.exe
 C:\Users\user\Desktop\Conference\Conference\Conference\obj\Debug\Conference.pdb
 C:\Users\user\Desktop\Conference\Conference\Conference\obj\Debug\App.baml
+C:\Users\user\Desktop\Conference\Conference\Conference\obj\Debug\Pages\RegisterPage.baml
+C:\Users\user\Desktop\Conference\Conference\Conference\obj\Debug\Pages\RegisterPage.g.cs

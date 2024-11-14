@@ -27,17 +27,17 @@ namespace Conference.Pages
 
         private void EventButton_Click(object sender, RoutedEventArgs e)
         {
-
+            Classes.Manager.MainFrame.Navigate(new Pages.RegisterPage());
         }
 
         private void UserButton_Click(object sender, RoutedEventArgs e)
         {
-
+            Classes.Manager.MainFrame.Navigate(new Pages.RegisterPage());
         }
 
         private void JuryButton_Click(object sender, RoutedEventArgs e)
         {
-
+            Classes.Manager.MainFrame.Navigate(new Pages.RegisterPage());
         }
     }
 }
