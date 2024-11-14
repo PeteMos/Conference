@@ -12,11 +12,11 @@
     <Grid>
         <StackPanel VerticalAlignment="Center"
                     HorizontalAlignment="Center">
-            <Label Content="ID номер:"></Label>
+            <Label Content="ID номер:" HorizontalAlignment="Center"></Label>
             <TextBox x:Name="IdNumberTextBox"
                      VerticalContentAlignment="Center"
                      HorizontalContentAlignment="Center"></TextBox>
-            <Label Content="Пароль:"></Label>
+            <Label Content="Пароль:" HorizontalAlignment="Center"></Label>
             <PasswordBox x:Name="PasswordBox"
                          VerticalContentAlignment="Center"
                          HorizontalContentAlignment="Center"></PasswordBox>

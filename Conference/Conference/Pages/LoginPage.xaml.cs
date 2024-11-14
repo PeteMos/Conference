@@ -12,6 +12,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Conference.Classes;
 
 namespace Conference.Pages
 {
@@ -49,8 +50,25 @@ namespace Conference.Pages
                     // Проверяем, есть ли пользователь с таким Id и паролем
                     if (Data.ConferenceDataEntities.GetContext().General.Any(d => d.Id == idNumber && d.Password == PasswordBox.Password))
                     {
-                        var user = Data.ConferenceDataEntities.GetContext().General.FirstOrDefault(d => d.Id == idNumber && d.Password == PasswordBox.Password);
-                        // Здесь вы можете добавить логику для успешного входа
+                        var user = Data.ConferenceDataEntities.GetContext().General
+                            .FirstOrDefault(d => d.Id == idNumber && d.Password == PasswordBox.Password);
+                        Manager.CurrentUser = user;
+
+                        // Переход в зависимости от роли
+                        switch (user.Roles.RoleName)
+                        {
+                            case "Жюри":
+                                break;
+                            case "Модераторы":
+                                break;
+                            case "Организаторы":
+                                Manager.MainFrame.Navigate(new OrganizatorPage());
+                                break;
+                            case "Участники":
+                                break;
+                        }
+
+                        MessageBox.Show("Успех", "Успех", MessageBoxButton.OK, MessageBoxImage.Information);
                     }
                     else
                     {

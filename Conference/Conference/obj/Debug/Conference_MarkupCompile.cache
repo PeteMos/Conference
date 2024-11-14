@@ -4,16 +4,16 @@
 winexe
 C#
 .cs
-C:\Users\user\Desktop\Conference\Conference\obj\Debug\
+C:\Users\user\Desktop\Conference\Conference\Conference\obj\Debug\
 Conference
 none
 false
 DEBUG;TRACE
-C:\Users\user\Desktop\Conference\Conference\App.xaml
+C:\Users\user\Desktop\Conference\Conference\Conference\App.xaml
 41647528940
 2367394133
 22245549326
-181117919539
+181499234239
 MainWindow.xaml;Pages\ListViewPage.xaml;Pages\LoginPage.xaml;Pages\OrganizatorPage.xaml;
 
 False
