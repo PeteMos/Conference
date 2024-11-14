@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="utf-8"?>
+<edmx:Edmx Version="3.0" xmlns:edmx="http://schemas.microsoft.com/ado/2009/11/edmx">
+ <!-- EF Designer content (DO NOT EDIT MANUALLY BELOW HERE) -->
+  <edmx:Designer xmlns="http://schemas.microsoft.com/ado/2009/11/edmx">
+    <!-- Diagram content (shape and connector positions) -->
+    <edmx:Diagrams>
+      <Diagram DiagramId="9b9d269603e94c16b0901f5ca726aa65" Name="Diagram1">
+        <EntityTypeShape EntityType="ConferenceDataModel.Activity" Width="1.5" PointX="5.25" PointY="1.25" IsExpanded="true" />
+        <EntityTypeShape EntityType="ConferenceDataModel.City" Width="1.5" PointX="1.5" PointY="20" IsExpanded="true" />
+        <EntityTypeShape EntityType="ConferenceDataModel.Country" Width="1.5" PointX="0.75" PointY="2.75" IsExpanded="true" />
+        <EntityTypeShape EntityType="ConferenceDataModel.Direction" Width="1.5" PointX="0.75" PointY="6.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ConferenceDataModel.Event" Width="1.5" PointX="0.75" PointY="8.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ConferenceDataModel.Event_act" Width="1.5" PointX="3" PointY="16.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ConferenceDataModel.Events" Width="1.5" PointX="0.75" PointY="16.5" IsExpanded="true" />
+        <EntityTypeShape EntityType="ConferenceDataModel.Gender" Width="1.5" PointX="0.75" PointY="10.875" IsExpanded="true" />
+        <EntityTypeShape EntityType="ConferenceDataModel.General" Width="1.5" PointX="3" PointY="1.125" IsExpanded="true" />
+        <EntityTypeShape EntityType="ConferenceDataModel.Roles" Width="1.5" PointX="0.75" PointY="13.25" IsExpanded="true" />
+        <AssociationConnector Association="ConferenceDataModel.FK_Activity_Event_act" ManuallyRouted="false" />
+        <AssociationConnector Association="ConferenceDataModel.FK_Activity_General" ManuallyRouted="false" />
+        <AssociationConnector Association="ConferenceDataModel.FK_Activity_General1" ManuallyRouted="false" />
+        <AssociationConnector Association="ConferenceDataModel.FK_Activity_General2" ManuallyRouted="false" />
+        <AssociationConnector Association="ConferenceDataModel.FK_Activity_General3" ManuallyRouted="false" />
+        <AssociationConnector Association="ConferenceDataModel.FK_Activity_General4" ManuallyRouted="false" />
+        <AssociationConnector Association="ConferenceDataModel.FK_Activity_General5" ManuallyRouted="false" />
+        <AssociationConnector Association="ConferenceDataModel.FK_Activity_General6" ManuallyRouted="false" />
+        <AssociationConnector Association="ConferenceDataModel.FK_Events_City" ManuallyRouted="false" />
+        <AssociationConnector Association="ConferenceDataModel.FK_General_Country" ManuallyRouted="false" />
+        <AssociationConnector Association="ConferenceDataModel.FK_General_Direction" ManuallyRouted="false" />
+        <AssociationConnector Association="ConferenceDataModel.FK_General_Event" ManuallyRouted="false" />
+        <AssociationConnector Association="ConferenceDataModel.C_" ManuallyRouted="false" />
+        <AssociationConnector Association="ConferenceDataModel.FK_General_Gender" ManuallyRouted="false" />
+        <AssociationConnector Association="ConferenceDataModel.FK_General_Roles" ManuallyRouted="false" />
+      </Diagram>
+    </edmx:Diagrams>
+  </edmx:Designer>
+</edmx:Edmx>
