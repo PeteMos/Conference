@@ -52,23 +52,31 @@ namespace Conference.Pages
                     {
                         var user = Data.ConferenceDataEntities.GetContext().General
                             .FirstOrDefault(d => d.Id == idNumber && d.Password == PasswordBox.Password);
-                        Manager.CurrentUser = user;
-
-                        // Переход в зависимости от роли
-                        switch (user.Roles.RoleName)
+                        if (user != null)
                         {
-                            case "Жюри":
-                                break;
-                            case "Модераторы":
-                                break;
-                            case "Организаторы":
-                                Manager.MainFrame.Navigate(new OrganizatorPage());
-                                break;
-                            case "Участники":
-                                break;
-                        }
+                            Manager.CurrentUser = user;
 
-                        MessageBox.Show("Успех", "Успех", MessageBoxButton.OK, MessageBoxImage.Information);
+                            // Получаем изображение из таблицы Events
+                            var eventImage = Data.ConferenceDataEntities.GetContext().Events.FirstOrDefault(eventItem => eventItem.Id_ev == user.IdEvent);
+
+                            string userName = user.FIO; // Получаем имя пользователя
+                            string userPhotoPath = eventImage?.ImageName;
+                            // Переход в зависимости от роли
+                            switch (user.Roles.RoleName)
+                            {
+                                case "Жюри":
+                                    break;
+                                case "Модераторы":
+                                    break;
+                                case "Организаторы":
+                                    Manager.MainFrame.Navigate(new OrganizatorPage(userName, userPhotoPath));
+                                    break;
+                                case "Участники":
+                                    break;
+                            }
+
+                            MessageBox.Show("Успех", "Успех", MessageBoxButton.OK, MessageBoxImage.Information);
+                        }
                     }
                     else
                     {

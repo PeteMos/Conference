@@ -57,7 +57,7 @@ namespace Conference.Pages
         }
         private void CancelButton_Click(object sender, RoutedEventArgs e)
         {
-            Classes.Manager.MainFrame.Navigate(new Pages.OrganizatorPage());
+            Classes.Manager.MainFrame.GoBack();
         }
         private bool IsValidPhoneNumber(string phoneNumber)
         {

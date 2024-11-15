@@ -1,28 +1,45 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 using System.Windows;
 using System.Windows.Controls;
-using System.Windows.Data;
-using System.Windows.Documents;
-using System.Windows.Input;
-using System.Windows.Media;
 using System.Windows.Media.Imaging;
-using System.Windows.Navigation;
-using System.Windows.Shapes;
 
 namespace Conference.Pages
 {
-    /// <summary>
-    /// Логика взаимодействия для OrganizatorPage.xaml
-    /// </summary>
     public partial class OrganizatorPage : Page
     {
-        public OrganizatorPage()
+        public OrganizatorPage(string userName, string userPhotoPath)
         {
             InitializeComponent();
+
+            UserNameLabel.Content = string.IsNullOrEmpty(userName) ? "Неизвестный пользователь" : userName;
+
+            if (!string.IsNullOrEmpty(userPhotoPath))
+            {
+                UserImage.Source = new BitmapImage(new Uri(userPhotoPath, UriKind.RelativeOrAbsolute));
+            }
+
+            GreetUser();
+        }
+
+        private void GreetUser()
+        {
+            string greeting = "Доброе утро/день/вечер";
+            var currentTime = DateTime.Now;
+
+            if (currentTime.Hour >= 9 && currentTime.Hour < 11)
+            {
+                greeting = "Доброе утро!";
+            }
+            else if (currentTime.Hour >= 11 && currentTime.Hour < 18)
+            {
+                greeting = "Добрый день!";
+            }
+            else
+            {
+                greeting = "Добрый вечер!";
+            }
+
+            GreetingLabel.Content = greeting;
         }
 
         private void EventButton_Click(object sender, RoutedEventArgs e)

@@ -3,16 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\user\\Desktop\\Conference\\Conference\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|c:\\users\\user\\desktop\\conference\\conference\\conference\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|solutionrelative:conference\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|C:\\Users\\user\\Desktop\\Conference\\Conference\\conference\\pages\\organizatorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|solutionrelative:conference\\pages\\organizatorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|C:\\Users\\user\\Desktop\\Conference\\Conference\\conference\\pages\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|solutionrelative:conference\\pages\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+      "AbsoluteMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|c:\\users\\user\\desktop\\conference\\conference\\conference\\pages\\organizatorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|solutionrelative:conference\\pages\\organizatorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|C:\\Users\\user\\Desktop\\Conference\\Conference\\conference\\pages\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|solutionrelative:conference\\pages\\registerpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|C:\\Users\\user\\Desktop\\Conference\\Conference\\conference\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|solutionrelative:conference\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|C:\\Users\\user\\Desktop\\Conference\\Conference\\conference\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|solutionrelative:conference\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|C:\\Users\\user\\Desktop\\Conference\\Conference\\conference\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|solutionrelative:conference\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|C:\\Users\\user\\Desktop\\Conference\\Conference\\conference\\pages\\listviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|solutionrelative:conference\\pages\\listviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|C:\\Users\\user\\Desktop\\Conference\\Conference\\conference\\pages\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|solutionrelative:conference\\pages\\registerpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|C:\\Users\\user\\Desktop\\Conference\\Conference\\conference\\mainwindow.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -21,26 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|C:\\Users\\user\\Desktop\\Conference\\Conference\\conference\\data\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|",
       "RelativeMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|solutionrelative:conference\\data\\model1.edmx||{C99AEA30-8E36-4515-B76F-496F5A48A6AA}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|C:\\Users\\user\\Desktop\\Conference\\Conference\\conference\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|solutionrelative:conference\\pages\\loginpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|C:\\Users\\user\\Desktop\\Conference\\Conference\\conference\\pages\\organizatorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|solutionrelative:conference\\pages\\organizatorpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|C:\\Users\\user\\Desktop\\Conference\\Conference\\conference\\pages\\organizatorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|solutionrelative:conference\\pages\\organizatorpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|C:\\Users\\user\\Desktop\\Conference\\Conference\\conference\\pages\\listviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
-      "RelativeMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|solutionrelative:conference\\pages\\listviewpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|C:\\Users\\user\\Desktop\\Conference\\Conference\\conference\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|solutionrelative:conference\\classes\\manager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B752E8D2-6B32-48C7-87E8-DDB30F17451F}|Conference\\Conference.csproj|C:\\Users\\user\\Desktop\\Conference\\Conference\\conference\\pages\\loginpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
@@ -66,18 +66,67 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "RegisterPage.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Pages\\RegisterPage.xaml",
-              "RelativeDocumentMoniker": "Conference\\Pages\\RegisterPage.xaml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Pages\\RegisterPage.xaml",
-              "RelativeToolTip": "Conference\\Pages\\RegisterPage.xaml",
+              "Title": "OrganizatorPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Pages\\OrganizatorPage.xaml",
+              "RelativeDocumentMoniker": "Conference\\Pages\\OrganizatorPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Pages\\OrganizatorPage.xaml",
+              "RelativeToolTip": "Conference\\Pages\\OrganizatorPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-14T19:46:54.376Z"
+              "WhenOpened": "2024-11-14T12:50:15.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ListViewPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Pages\\ListViewPage.xaml",
+              "RelativeDocumentMoniker": "Conference\\Pages\\ListViewPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Pages\\ListViewPage.xaml",
+              "RelativeToolTip": "Conference\\Pages\\ListViewPage.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-14T12:49:57.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "OrganizatorPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Pages\\OrganizatorPage.xaml.cs",
+              "RelativeDocumentMoniker": "Conference\\Pages\\OrganizatorPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Pages\\OrganizatorPage.xaml.cs",
+              "RelativeToolTip": "Conference\\Pages\\OrganizatorPage.xaml.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAuwBMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:56:31.178Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Manager.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Classes\\Manager.cs",
+              "RelativeDocumentMoniker": "Conference\\Classes\\Manager.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Classes\\Manager.cs",
+              "RelativeToolTip": "Conference\\Classes\\Manager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:50:29.698Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoginPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Pages\\LoginPage.xaml.cs",
+              "RelativeDocumentMoniker": "Conference\\Pages\\LoginPage.xaml.cs",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Pages\\LoginPage.xaml.cs",
+              "RelativeToolTip": "Conference\\Pages\\LoginPage.xaml.cs",
+              "ViewState": "AgIAAC4AAAAAAAAAAIAwwDsAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T12:56:03.319Z"
             },
             {
               "$type": "Document",
@@ -87,47 +136,13 @@
               "RelativeDocumentMoniker": "Conference\\Pages\\RegisterPage.xaml.cs",
               "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Pages\\RegisterPage.xaml.cs",
               "RelativeToolTip": "Conference\\Pages\\RegisterPage.xaml.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAhwBkAAABaAAAAAAAAAA==",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwDsAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-11-14T19:47:01.43Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "LoginPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Pages\\LoginPage.xaml.cs",
-              "RelativeDocumentMoniker": "Conference\\Pages\\LoginPage.xaml.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Pages\\LoginPage.xaml.cs",
-              "RelativeToolTip": "Conference\\Pages\\LoginPage.xaml.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAhwDcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T12:56:03.319Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Model1.edmx [Diagram1]",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Data\\Model1.edmx",
-              "RelativeDocumentMoniker": "Conference\\Data\\Model1.edmx",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Data\\Model1.edmx [Diagram1]",
-              "RelativeToolTip": "Conference\\Data\\Model1.edmx [Diagram1]",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
-              "WhenOpened": "2024-11-14T12:52:37.183Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "MainWindow.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\MainWindow.xaml",
-              "RelativeDocumentMoniker": "Conference\\MainWindow.xaml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\MainWindow.xaml",
-              "RelativeToolTip": "Conference\\MainWindow.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-14T12:46:53.769Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
               "Title": "App.xaml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\App.xaml",
               "RelativeDocumentMoniker": "Conference\\App.xaml",
@@ -139,6 +154,28 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MainWindow.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\MainWindow.xaml",
+              "RelativeDocumentMoniker": "Conference\\MainWindow.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\MainWindow.xaml",
+              "RelativeToolTip": "Conference\\MainWindow.xaml",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-11-14T12:46:53.769Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Model1.edmx [Diagram1]",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Data\\Model1.edmx",
+              "RelativeDocumentMoniker": "Conference\\Data\\Model1.edmx",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Data\\Model1.edmx [Diagram1]",
+              "RelativeToolTip": "Conference\\Data\\Model1.edmx [Diagram1]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001116|",
+              "WhenOpened": "2024-11-14T12:52:37.183Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 10,
               "Title": "LoginPage.xaml",
               "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Pages\\LoginPage.xaml",
@@ -147,30 +184,6 @@
               "RelativeToolTip": "Conference\\Pages\\LoginPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
               "WhenOpened": "2024-11-14T12:49:38.675Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "OrganizatorPage.xaml.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Pages\\OrganizatorPage.xaml.cs",
-              "RelativeDocumentMoniker": "Conference\\Pages\\OrganizatorPage.xaml.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Pages\\OrganizatorPage.xaml.cs",
-              "RelativeToolTip": "Conference\\Pages\\OrganizatorPage.xaml.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAADgvyIAAABJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T12:56:31.178Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "Manager.cs",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Classes\\Manager.cs",
-              "RelativeDocumentMoniker": "Conference\\Classes\\Manager.cs",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Classes\\Manager.cs",
-              "RelativeToolTip": "Conference\\Classes\\Manager.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAiAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-11-14T12:50:29.698Z"
             },
             {
               "$type": "Document",
@@ -199,24 +212,13 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "OrganizatorPage.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Pages\\OrganizatorPage.xaml",
-              "RelativeDocumentMoniker": "Conference\\Pages\\OrganizatorPage.xaml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Pages\\OrganizatorPage.xaml",
-              "RelativeToolTip": "Conference\\Pages\\OrganizatorPage.xaml",
+              "Title": "RegisterPage.xaml",
+              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Pages\\RegisterPage.xaml",
+              "RelativeDocumentMoniker": "Conference\\Pages\\RegisterPage.xaml",
+              "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Pages\\RegisterPage.xaml",
+              "RelativeToolTip": "Conference\\Pages\\RegisterPage.xaml",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-14T12:50:15.725Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "ListViewPage.xaml",
-              "DocumentMoniker": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Pages\\ListViewPage.xaml",
-              "RelativeDocumentMoniker": "Conference\\Pages\\ListViewPage.xaml",
-              "ToolTip": "C:\\Users\\user\\Desktop\\Conference\\Conference\\Conference\\Pages\\ListViewPage.xaml",
-              "RelativeToolTip": "Conference\\Pages\\ListViewPage.xaml",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
-              "WhenOpened": "2024-11-14T12:49:57.163Z"
+              "WhenOpened": "2024-11-14T19:46:54.376Z"
             },
             {
               "$type": "Document",
